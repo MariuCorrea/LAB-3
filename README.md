@@ -13,7 +13,8 @@ Laboratorio3_FDC_4877
 ### Marco Teórico
 
 
-###Diagrama
+
+### Diagramas
 
 
 ### Tablas
