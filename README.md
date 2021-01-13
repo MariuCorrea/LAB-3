@@ -25,7 +25,7 @@ Laboratorio3_FDC_4877
 | * Voltaje Total (VA) * | * Voltaje Total (VA) cuando V2=0 * | * Voltaje Total (VA) cuando V1=0 * |
 | ------------ | ------------ | ------------ |	
 | Calculado| Medido | Calculado| Medido | Calculado| Medido |	
-|               |             |             |           |              |                 |	
+|     2     |   2    |   2       |   2    |     2     |   2    |	
 
 
 ### Lista de componentes
