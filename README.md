@@ -36,7 +36,18 @@ Laboratorio3_FDC_4877
 
 
 ### Lista de componentes
- 
+
+
+| Cantidad | Elemento | 
+| ------------ | ------------ | 
+|       2        | Fuente de Voltaje de C.D.  |    
+|       2         |  Multímetros Digitales |
+ |       1         |  Resistor de 1 kΩ |
+|       1        |  Resistor de 2.2 kΩ |
+|       1         |  Resistor de 820 Ω |
+|       1         |  Resistor de 470 Ω |
+|       1         |  Protoboard |
+
 
 ### Explicación
 
