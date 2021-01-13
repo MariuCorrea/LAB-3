@@ -12,7 +12,7 @@ Laboratorio3_FDC_4877
 
 ### Marco Teórico
 
-
+111111
 
 ### Diagramas
 
@@ -54,6 +54,8 @@ Laboratorio3_FDC_4877
 
 ### Conclusiones
 
+1111111111
 
 ### Bibliografía
 
+111111111
