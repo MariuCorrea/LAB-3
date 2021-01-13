@@ -21,13 +21,18 @@ Laboratorio3_FDC_4877
 
 > Tabla 4.1. Medición de voltaje aplicando superposición 
 
-
-
 | * Voltaje Total (VA) * |    |  * Voltaje Total (VA) cuando V2=0 * |   |   * Voltaje Total (VA) cuando V1=0 * |   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |	
 | Calculado| Medido | Calculado| Medido | Calculado| Medido |	
 |               |             |     |      |     |    |	
 
+
+> Tabla 4.1. Medición de voltaje aplicando superposición 
+
+| * Corriente Total (Ix) * |    |  * Corriente Total (Ix) cuando V2=0 * |   |   * Corriente Total (Ix) cuando V1=0 * |   |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |	
+| Calculado| Medido | Calculado| Medido | Calculado| Medido |	
+|               |             |     |      |     |    |	
 
 
 ### Lista de componentes
