@@ -54,7 +54,11 @@ Laboratorio3_FDC_4877
 
 ### Conclusiones
 
-1111111111
+- El teorema de superposición es una herramienta útil en la solución de circuitos porque suprime una fuente de corriente que es más complejo para trabajarlo y lo remplaza con un circuito abierto haciéndose mas sencillo al momento de la obtención de los cálculos.
+- El teorema, aunque útil esta limitada a usarse solo en circuitos eléctricos que sean lineales, los cuales se conforman de componentes que son proporcionales en su amplitud de corriente como en la amplitud de tensión en los terminales.
+- Para los cálculos de circuitos representaría de mucho esfuerzo si existen mas de una fuente porque intentar escribir las ecuaciones de nodos o de mallas son más difíciles, por lo que aprovechar la superposición reduce a una fuente y simplifica el circuito volviéndolo más manejable. 
+- Reducir tanto un circuito puede ser difícil de creer, pero esta propiedad existe para identificar en que parte están encimados los circuitos que los hacen tan complejos y demostrar que cada circuito es inconsciente de los otros hasta que se realiza la suma final.
+
 
 ### Bibliografía
 
