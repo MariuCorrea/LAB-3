@@ -62,4 +62,5 @@ Laboratorio3_FDC_4877
 
 ### Bibliografía
 
-111111111
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
