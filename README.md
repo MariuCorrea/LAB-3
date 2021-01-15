@@ -66,6 +66,10 @@ Laboratorio3_FDC_4877
 ### Bibliografía
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
-- 
-https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+- Superposición. (s/f). Recuperado el 15 de enero de 2021, de Khanacademy.org website: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
+- Teorema de la superposicion. (2020, febrero 5). Recuperado el 15 de enero de 2021, de Tina.com website: https://www.tina.com/es/superposition-theorem/
+
+- Teorema de superposición para solución de circuitos eléctricos. (s/f). Recuperado el 15 de enero de 2021, de Ecured.cu website: https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctr
+
 
