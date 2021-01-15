@@ -32,7 +32,7 @@ Laboratorio3_FDC_4877
 | Voltaje Total (VA)  |    |   Voltaje Total (VA) cuando V2=0  |   |    Voltaje Total (VA) cuando V1=0  |   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |	
 | Calculado| Medido | Calculado| Medido | Calculado| Medido |	
-|               |             |     |      |     |    |	
+|    0.9464 V           |    0.952 V          |  7.4784 V  |  5.70 V     |  6.53 V    |  6.53 V |	
 
 
 > Tabla 4.1. Medición de voltaje aplicando superposición 
@@ -40,7 +40,7 @@ Laboratorio3_FDC_4877
 |  Corriente Total (Ix)  |    |   Corriente Total (Ix) cuando V2=0  |   |    Corriente Total (Ix) cuando V1=0  |   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |	
 | Calculado| Medido | Calculado| Medido | Calculado| Medido |	
-|               |             |     |      |     |    |	
+|      25.53 mA         |     25.5 mA        |  0 mA   |  6.95 mA    |  25.53 mA   |  25.5 mA  |	
 
 
 ### Lista de componentes
