@@ -22,6 +22,8 @@ Laboratorio3_FDC_4877
 ### Diagramas
 ![CIRCUITO LAB3](https://user-images.githubusercontent.com/76136049/104699014-20ed0780-56e0-11eb-82f5-6eb353ddcd7f.PNG)
 
+![CIRCUITO 12V LAB3](https://user-images.githubusercontent.com/76136049/104700507-40852f80-56e2-11eb-9555-33c72bf90faa.PNG)
+![CIRCUITO 20V LAB3](https://user-images.githubusercontent.com/76136049/104700509-411dc600-56e2-11eb-871f-0c07971b93ab.png)
 
 ### Tablas
 
