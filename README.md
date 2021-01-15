@@ -8,7 +8,9 @@ Laboratorio3_FDC_4877
 ------------
    ## Teorema de superposición 
 ### Objetivos 
-
+- Comprobar el Teorema de Super posición.
+- Simular el circuito mostrado para obtener los datos requeridos.
+- Comparar los datos calculados con los datos simulados.
 
 ### Marco Teórico
 
@@ -18,6 +20,7 @@ Laboratorio3_FDC_4877
 
 
 ### Diagramas
+![CIRCUITO LAB3](https://user-images.githubusercontent.com/76136049/104699014-20ed0780-56e0-11eb-82f5-6eb353ddcd7f.PNG)
 
 
 ### Tablas
@@ -57,8 +60,6 @@ Laboratorio3_FDC_4877
 [Link Video](https://youtu.be/lkgXKLvqtso)
 
 
-
-- ahi esta para que aparezca el video solo le cambias el link ejejejejjee osea esto : https://www.youtube.com/watch?v=JEmUxMcAUco
 
 ### Conclusiones
 
