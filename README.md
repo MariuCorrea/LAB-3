@@ -6,7 +6,7 @@ Laboratorio3_FDC_4877
 - David López	
 - Mariú Correa	
 ------------
-## Teorema de superposición 
+>>## Teorema de superposición 
 ### Objetivos 
 
 
