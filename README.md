@@ -54,6 +54,11 @@ Laboratorio3_FDC_4877
 
 ### Explicación
 
+[Link Video](https://www.youtube.com/watch?v=JEmUxMcAUco "Link Video")
+
+
+
+- ahi esta para que aparezca el video solo le cambias el link ejejejejjee osea esto : https://www.youtube.com/watch?v=JEmUxMcAUco
 
 ### Conclusiones
 
