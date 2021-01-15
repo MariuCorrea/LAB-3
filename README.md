@@ -12,7 +12,10 @@ Laboratorio3_FDC_4877
 
 ### Marco Teórico
 
-111111
+![Marco teórico 1](https://user-images.githubusercontent.com/76136485/104665629-df3c6c80-569f-11eb-9de9-982c022c2362.png)
+
+![Marco teórico 2](https://user-images.githubusercontent.com/76136485/104665633-e2cff380-569f-11eb-97c5-5e420d883f2d.png)
+
 
 ### Diagramas
 
