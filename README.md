@@ -54,7 +54,7 @@ Laboratorio3_FDC_4877
 
 ### Explicación
 
-[Link Video](https://www.youtube.com/watch?v=JEmUxMcAUco "Link Video")
+[Link Video](https://youtu.be/lkgXKLvqtso)
 
 
 
